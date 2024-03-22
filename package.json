@@ -1,0 +1,18 @@
+{
+  "name": "undevoluptatem",
+  "version": "1.0.0",
+  "description": "Eth sdk",
+  "author": "CorineLang",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndyCassin/undevoluptatem.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AndyCassin/undevoluptatem.git/issues"
+  },
+  "dependencies": {
+    "lerna": "^3.8.5"
+  },
+  "homepage": "https://github.com/AndyCassin/undevoluptatem.git"
+}
